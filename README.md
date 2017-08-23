@@ -6,6 +6,7 @@
 该系统具有非常友好的界面，采用了Spring + Spring MVC + Mybatis 框架的结合。采用shiro保证了保密性，采用Gradle自动化构建工具，更好地解决一些包的冲突。
 
 ### 功能介绍
+
 #### 客户端
 ![image](https://github.com/KCSiesta/studyOnline/blob/master/Image/WX20170823-153728.png)
 * 登陆功能：无论是学员还是管理员，都需要进行登陆，验证该账号是否存在才可以进行后续的操作。
