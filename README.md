@@ -32,23 +32,25 @@ IntelliJ Idea + Tomcat服务器 + MySQL数据库
 ### 界面截图
 * 前台展示
 #### 登陆界面：
+![image](https://github.com/KCSiesta/studyOnline/blob/master/Image/pastedGraphic.png%203.png)
 
 #### 首页界面：
-￼
+￼![image](https://github.com/KCSiesta/studyOnline/blob/master/Image/pastedGraphic.png.png)
 
 #### 播放视频界面:
-￼
-
+![image](https://github.com/KCSiesta/studyOnline/blob/master/Image/pastedGraphic.png%202.png)￼
 
 #### 播放音频界面：
-￼
+￼![image](https://github.com/KCSiesta/studyOnline/blob/master/Image/pastedGraphic.png%204.png)
+
 #### 播放PPT界面：
-￼
+￼![image](https://github.com/KCSiesta/studyOnline/blob/master/Image/pastedGraphic.png%205.png)
+
 #### 课程界面：
-￼
+￼![image](https://github.com/KCSiesta/studyOnline/blob/master/Image/pastedGraphic.png%206.png)
 
 #### 个人信息界面：
-
+![image](https://github.com/KCSiesta/studyOnline/blob/master/Image/pastedGraphic.png%207.png)
 
 
 
