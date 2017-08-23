@@ -2,7 +2,10 @@ package com.arcsoft.studyOnline.dao;
 
 import com.arcsoft.studyOnline.bean.Discuss;
 import com.arcsoft.studyOnline.bean.DiscussExample;
+import java.util.Date;
 import java.util.List;
+
+import com.arcsoft.studyOnline.bean.DiscussWithEmpName;
 import org.apache.ibatis.annotations.Param;
 
 public interface DiscussMapper {
@@ -77,4 +80,8 @@ public interface DiscussMapper {
      * @mbg.generated Sun Jun 18 17:34:40 CST 2017
      */
     int updateByExample(@Param("record") Discuss record, @Param("example") DiscussExample example);
+
+    void insertDiscuss(@Param("videoId")Integer videoId,@Param("empId") Integer empId,@Param("content") String content,@Param("date") Date date,@Param("preId") Integer preId);
+
+    List<DiscussWithEmpName> selectDiscussListByVideoId(@Param("videoId")Integer videoId);
 }
